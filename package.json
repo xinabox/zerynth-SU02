@@ -1,8 +1,13 @@
 {
+    "description": "Module for XinaBox SU02 digital input",
     "fullname": "lib.xinabox.su02",
     "git_pointer": "github://xinabox/zerynth-SU02",
-    "title": "XinaBox SU02",
-    "description": "Module for XinaBox SU02 digital input",
+    "info": {
+        "chip_manufacturer": "XinaBox",
+        "chip_name": "SU02",
+        "name": "Digital Input",
+        "type": "Sensor"
+    },
     "keywords": [
         "digital input",
         "sensor",
@@ -10,12 +15,7 @@
         "xinabox",
         "ADC081C021"
     ],
-    "info": {
-        "chip_manufacturer": "XinaBox",
-        "chip_name": "SU02",
-        "name": "Digital Input",
-        "type": "Sensor"
-    }, 
     "repo": "official",
-    "version": "r2.1.2"
+    "title": "XinaBox SU02",
+    "version": "r2.2.0"
 }
